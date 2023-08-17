@@ -1,9 +1,9 @@
 ### Hi, I'm John. 👋
 
-# Work
+### Work
 I'm currently working in accounting.
 
-# Interests
+### Interests
 I have budding interests in the following domains: 
 
 * Finance
@@ -11,12 +11,12 @@ I have budding interests in the following domains:
 * Information Systems
 * Data Analytics
 
-# Priorities
+### Priorities
 In my free time, some of my priorities are practicing Python and SQL, learning about data structures and algorithms, and practicing data visualization.
 
 If you're interested in viewing work that I've created in Python and SQL, stay tuned. I have a repository named Assorted_Ideas which currently contains a simple project that I created when I had more free time on my hands.
 
-# Fun Fact
+### Fun Fact
 One of my passions lies in the importance of data and how it can be crafted to portray insights that inform tactical and strategic decision making.
 
 <!--
